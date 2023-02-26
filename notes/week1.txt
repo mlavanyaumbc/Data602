@@ -1,5 +1,4 @@
 
 marks: 95
 remarks: 
-Q1-e the number of non- null values across columns 3-57 is 3484
 Q3 - you would want to plot a graph with countries and year on either of the axis
