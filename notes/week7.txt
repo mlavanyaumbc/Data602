@@ -1,0 +1,4 @@
+hw:95
+haven't found the important features using decision tree model
+
+lab:100
